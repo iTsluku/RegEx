@@ -25,6 +25,6 @@ A practical introduction to regular expressions using Python and Bash.
 + pattern validation
 + data extraction
 
-g<a id="syntax"></a>
+<a id="syntax"></a>
 
 ## Syntax
