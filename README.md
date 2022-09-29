@@ -1,31 +1,30 @@
 # RegEx
 
-This repository contains detailed documentation on implementing RegEx expressions in Python.
+A practical introduction to regular expressions using Python and Bash.
 
+# Table of Contents
 
-## Project structure
+1. [Motivation](#motivation)
+2. [Applications](#applications)
+3. [Syntax](#syntax)
 
-    .
-    ├── 01_Syntax.ipynb         # Introduction
-    .
-    .
-    .
-    ├── TODO
-    .
-    .
-    .
-    └── README.md
+<a id="motivation"></a>
 
-
-## Why
+## Motivation
 
 + products last because they are hard to do
 + software takes a lot longer for competitors to catch up with
-+ BUT: best software will win
-+ AND: IT investments that increase operational productivity determine the company's success
++ **BUT** best software will win
++ **AND** IT investments that increase operational productivity determine the company's success
++ RegEx skills &rarr; **STONKS**
 
+<a id="applications"></a>
 
-## Common applications
+## Applications
 
 + pattern validation
-+ data extraction 
++ data extraction
+
+<a id="syntax"></a>
+
+## Syntax
